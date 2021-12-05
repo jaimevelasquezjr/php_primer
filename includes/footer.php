@@ -2,6 +2,7 @@
     <button type="button" class="btn btn-dark">Dark</button>
     <button type="button" class="btn btn-primary" >Primary</button>
     <button type="button" class="btn btn-success" >Success</button>
+    <button type="button" class="btn btn-danger" >Danger</button>
     
     <footer>
       <p>Copyright © 2012 - 2021</p>
